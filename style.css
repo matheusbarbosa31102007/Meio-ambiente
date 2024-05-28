@@ -43,19 +43,19 @@ body {
 
 
 .produtos-titulo{
-    padding: 24px 0;
+    padding: 40px 0;
 }
 
 .produtos{
-    padding: 24px 0;
+    padding: 30px 0;
 }
 .produtos-imagem{
     width: 120px;
 }
 
 .produtos-icone{
-    width: 24px;
-    padding: 4px 8px;
+    width: 60px;
+    padding: 7px 8px;
 }
 
 .produtos-div{
